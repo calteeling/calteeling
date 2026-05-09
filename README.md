@@ -1,16 +1,16 @@
-# Hey, I'm Cal 👋
+# Hey, I'm Cal
 
-I'm a Computational Modeling & Data Analytics rising senior at Virginia Tech, minoring in Computer Science. I'm drawn to problems where rigorous quantitative methods meet real-world engineering constraints — the kind of work that sits at the boundary of data science and software engineering. I'm particularly interested in applying that combination to domains like **finance**, **defense**, and **critical infrastructure**.
+Rising senior at Virginia Tech (CMDA + CS minor). I build things that blend data science and software engineering, and I'm most interested in applying that to high-stakes domains like finance, defense, and critical infrastructure.
 
 ---
 
-### 🔨 Currently Working On
+### Currently Working On
 
 **[virginia-crash-analysis](https://github.com/calteeling/virginia-crash-analysis)** — Analyzing statewide vehicle crash data across Virginia to uncover spatial patterns and contributing factors. Currently building out heatmap visualizations and diving deeper into the variables behind where and why crashes cluster.
 
 ---
 
-### 📂 Projects
+### Projects
 
 | Project | Description |
 |---|---|
@@ -21,7 +21,7 @@ I'm a Computational Modeling & Data Analytics rising senior at Virginia Tech, mi
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -32,6 +32,6 @@ I'm a Computational Modeling & Data Analytics rising senior at Virginia Tech, mi
 
 ---
 
-### 📫 Connect
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cal-teeling-b16399328/)
