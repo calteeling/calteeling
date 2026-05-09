@@ -1,37 +1,37 @@
-# Hi, I'm Cal 👋
+# Hey, I'm Cal 👋
 
-**Computational Modeling & Data Analytics @ Virginia Tech**
-
-I'm interested in the intersection of data science, quantitative finance, and statistical modeling. I like building tools that turn messy data into clear insights.
+I'm a Computational Modeling & Data Analytics rising senior at Virginia Tech, minoring in Computer Science. I'm drawn to problems where rigorous quantitative methods meet real-world engineering constraints — the kind of work that sits at the boundary of data science and software engineering. I'm particularly interested in applying that combination to domains like **finance**, **defense**, and **critical infrastructure**.
 
 ---
 
-### 🔭 What I'm working on
+### 🔨 Currently Working On
 
-- **[charlotte-homicide-analysis](https://github.com/calteeling/charlotte-homicide-analysis)** — Exploratory data analysis on homicide trends in Charlotte, NC using Python & Jupyter
-- **[options-risk-analysis](https://github.com/calteeling/options-risk-analysis)** — Quantitative modeling of options pricing and risk metrics
-- **[currency-calculator](https://github.com/calteeling/currency-calculator)** — A Python tool for real-time currency conversion
+**[virginia-crash-analysis](https://github.com/calteeling/virginia-crash-analysis)** — Analyzing statewide vehicle crash data across Virginia to uncover spatial patterns and contributing factors. Currently building out heatmap visualizations and diving deeper into the variables behind where and why crashes cluster.
+
+---
+
+### 📂 Projects
+
+| Project | Description |
+|---|---|
+| [virginia-crash-analysis](https://github.com/calteeling/virginia-crash-analysis) | Geospatial analysis of statewide crash data in Virginia using Python & Jupyter |
+| [charlotte-homicide-analysis](https://github.com/calteeling/charlotte-homicide-analysis) | Exploratory data analysis of homicide trends in Charlotte, NC |
+| [options-risk-analysis](https://github.com/calteeling/options-risk-analysis) | Quantitative modeling of options pricing and risk metrics |
+| [currency-calculator](https://github.com/calteeling/currency-calculator) | Python tool for currency conversion |
 
 ---
 
 ### 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
-
-![Cal's GitHub stats](https://github-readme-stats.vercel.app/api?username=calteeling&show_icons=true&theme=default&hide_border=true&count_private=true)
-
----
-
-### 📫 Connect with me
+### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cal-teeling-b16399328/)
-[![GitHub](https://img.shields.io/badge/GitHub-calteeling-181717?style=flat-square&logo=github)](https://github.com/calteeling)
