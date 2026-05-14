@@ -26,5 +26,5 @@ CMDA rising senior at Virginia Tech, minoring in Computer Science. I'm intereste
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cal-teeling-b16399328/)
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5751F,100:861F41&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:861F41,100:E5751F&height=4" width="100%"/>
 </div>
