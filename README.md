@@ -1,6 +1,6 @@
 ### Hi I'm Cal
 
-CMDA rising senior at Virginia Tech with a minor in Computer Science. I'm interested in what happens when statistical modeling and software engineering overlap — using computational tools to make sense of complex, high-stakes systems. My focus tends to land in spaces where the data actually matters: financial markets, defense applications, and the infrastructure most people don't think about until it breaks.
+CMDA rising senior at Virginia Tech, minoring in Computer Science. I'm interested in where statistical modeling and software engineering meet. I use computational tools to work through complex, real world problems. My repos are a mix of coursework and personal projects.
 
 ---
 
