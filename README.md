@@ -4,13 +4,13 @@ CMDA rising senior at Virginia Tech, minoring in Computer Science. I'm intereste
 
 ---
 
-### 🔨 Currently Building
+### Currently Building
 
 **[virginia-crash-analysis](https://github.com/calteeling/virginia-crash-analysis)** — Mapping and analyzing statewide vehicle crash data across Virginia to surface spatial patterns and the factors behind them. Working through heatmaps and diving into what's actually driving the clusters.
 
 ---
 
-### 🛠️ Stack
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -21,7 +21,7 @@ CMDA rising senior at Virginia Tech, minoring in Computer Science. I'm intereste
 
 ---
 
-### 📫 Connect
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cal-teeling-b16399328/)
 
