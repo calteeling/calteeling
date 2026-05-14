@@ -1,16 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:861F41,100:E5751F&height=180&section=header&text=Cal%20Teeling&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Computational%20Modeling%20%26%20Data%20Analytics%20%40%20Virginia%20Tech&descAlignY=62&descSize=16&descColor=ffffff" />
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=861F41&center=true&vCenter=true&width=500&lines=Data+Science+%2B+Software+Engineering;Finance+%7C+Defense+%7C+Infrastructure;Rising+Senior+%40+VT+%7C+CS+Minor)](https://git.io/typing-svg)
-
-</div>
-
----
-
-### About
+### Hi I'm Cal
 
 CMDA rising senior at Virginia Tech with a minor in Computer Science. I'm interested in what happens when statistical modeling and software engineering overlap — using computational tools to make sense of complex, high-stakes systems. My focus tends to land in spaces where the data actually matters: financial markets, defense applications, and the infrastructure most people don't think about until it breaks.
 
