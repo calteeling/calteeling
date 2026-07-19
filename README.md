@@ -1,6 +1,6 @@
 ### Hi I'm Cal
 
-CMDA rising senior at Virginia Tech, minoring in Computer Science. I'm interested in where statistical modeling and software engineering meet. I use computational tools to work through complex, real world problems. My repos are a mix of coursework and personal projects.
+CMDA rising senior at Virginia Tech, minoring in Computer Science. I'm interested in where statistical modeling and software engineering meet. I use computational tools to work through complex, real world problems. My repos are a mix of coursework, hackathons, and personal projects.
 
 ---
 
